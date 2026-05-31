@@ -39,7 +39,7 @@ function addPost() {
 
     // --- 2. INPUT DE RESPUESTA (SIEMPRE EN PRIMERA FILA) ---
     let writingInput = document.createElement("input");
-    writingInput.placeholder = "Escribe y pulsa Enter...";
+    writingInput.placeholder = "Type and press Enter...";
     writingInput.className = "reply-input"; 
     writingInput.style.width = "90%";
     writingInput.style.margin = "10px 0";
