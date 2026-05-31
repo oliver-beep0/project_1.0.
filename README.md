@@ -1,1 +1,1 @@
-hi, this is an stem project
+Hi, this is a STEM project!
