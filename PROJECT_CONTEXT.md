@@ -1,164 +1,177 @@
 # PROJECT CONTEXT
 
-## Estado del proyecto
-Proyecto en etapa MVP frontend.
-Actualmente desarrollado por una sola persona mientras aprende programación y arquitectura web.
+## Project Status
+
+This project is currently in the MVP frontend stage.
+
+It is being developed by a single student while learning programming, web development, and software architecture.
 
 ---
 
-# Filosofía del proyecto
+# Project Philosophy
 
-## Lo que NO quiero
+## What I DON'T want
 
-- Scroll infinito
-- Sobrecarga de información
-- Exclusividad
-- Jerarquías sociales artificiales
-- Diseño excesivamente complejo
-- Interfaces saturadas
-- Algoritmos que premien popularidad vacía
-- Que la plataforma se convierta en una app solo para “intelectuales”
-- Que los usuarios tengan que adaptarse forzadamente a una filosofía
+- Infinite scrolling
+- Information overload
+- Exclusivity
+- Artificial social hierarchies
+- Overly complex design
+- Crowded interfaces
+- Algorithms that reward popularity without meaningful contribution
+- A platform designed only for "intellectuals"
+- Forcing users to adapt to a specific philosophy
 
-## Lo que SÍ quiero
+## What I DO want
 
-- Minimalismo funcional
-- Interfaces simples pero profundas
-- Pocas funciones adaptativas
-- Equilibrio entre aporte y naturalidad
-- Curiosidad
-- Construcción colectiva
-- Diseño limpio
-- Flexibilidad
-- Acceso amplio
-- Experiencia humana y tranquila
-
----
-
-# Objetivo del proyecto
-
-Crear una plataforma social enfocada en:
-- preguntas,
-- curiosidad,
-- aprendizaje,
-- construcción colectiva,
-- publicaciones útiles,
-- interacción significativa.
-
-La plataforma NO busca maximizar consumo o tiempo de pantalla.
+- Functional minimalism
+- Simple yet meaningful interfaces
+- Few but adaptive features
+- Balance between contribution and natural interaction
+- Curiosity
+- Collaborative knowledge building
+- Clean design
+- Flexibility
+- Accessibility
+- A calm and human-centered experience
 
 ---
 
-# Funciones actuales
+# Project Goal
+
+To create a social platform focused on:
+
+- Questions
+- Curiosity
+- Learning
+- Collaborative knowledge building
+- Useful contributions
+- Meaningful interactions
+
+The platform is NOT designed to maximize screen time or user consumption.
+
+---
+
+# Current Features
 
 ## Feed
-- Crear publicaciones
-- Eliminar publicaciones
-- Dar “Me suma”
-- Mostrar fecha y hora
-- Mostrar nombre de usuario
-- Comentarios dentro de publicaciones
 
-## Diseño
-- CSS minimalista
-- Feed limpio
-- Estética simple
-- Estructura responsive básica
+- Create posts
+- Delete posts
+- "Adds Value" reaction system
+- Display date and time
+- Display username
+- Post comments
 
-## Archivos actuales
+## Design
+
+- Minimalist CSS
+- Clean feed layout
+- Simple visual style
+- Basic responsive structure
+
+## Current Files
+
 - index.html
 - style.css
 - script.js
 
 ---
 
-# Funciones pendientes MVP
+# MVP Features Still in Progress
 
-- localStorage
-- Persistencia de publicaciones
-- Persistencia de comentarios
-- Persistencia de “Me suma”
-- Respuestas a comentarios
-- Mejor organización visual
-- Sistema básico de navegación
+- localStorage integration
+- Post persistence
+- Comment persistence
+- "Adds Value" persistence
+- Comment replies
+- Improved visual organization
+- Basic navigation system
 
 ---
 
-# Funciones futuras (NO prioritarias)
+# Future Features (Not a Priority Yet)
 
-- Login real
+- User authentication
 - Backend
-- Base de datos
-- Imágenes
+- Database
+- Images
 - Videos
-- Algoritmo de relevancia
-- Sistema IA de verificación
-- Aplicación móvil
+- Relevance algorithm
+- AI-powered information verification
+- Mobile application
 
 ---
 
-# Principios UX
+# UX Principles
 
-- El usuario debe comprender rápidamente la plataforma.
-- No generar ansiedad visual.
-- No manipular emocionalmente para generar consumo.
-- Las publicaciones deben sentirse humanas.
-- El contenido útil debe tener más peso que la popularidad artificial.
-
----
-
-# Conceptos importantes
-
-## “Me suma”
-Sistema equivalente a “like”.
-No representa fama.
-Representa utilidad, aporte o valor percibido.
-
-## Seguidores
-Si existen en el futuro:
-- NO definirán relevancia automáticamente.
-- El contenido útil tendrá prioridad.
+- Users should understand the platform quickly.
+- The interface should not create visual anxiety.
+- The platform should not manipulate users into consuming more content.
+- Posts should feel human.
+- Useful content should matter more than artificial popularity.
 
 ---
 
-# Estado técnico actual
+# Important Concepts
 
-## Aprendido
+## "Adds Value"
 
-- HTML básico
-- CSS básico/intermedio
-- JavaScript DOM
-- Eventos
-- Manipulación de elementos
-- Separación de archivos
-- Uso de VS Code
-- Go Live
-- Organización frontend básica
+A reaction system similar to a "like".
 
-## En aprendizaje
+It does not represent popularity.
+
+It represents usefulness, contribution, or perceived value.
+
+## Followers
+
+If implemented in the future:
+
+- Followers will NOT automatically determine relevance.
+- Meaningful contributions will have priority.
+
+---
+
+# Current Technical Progress
+
+## Learned
+
+- Basic HTML
+- Basic / Intermediate CSS
+- JavaScript DOM manipulation
+- Events
+- Element manipulation
+- File organization
+- VS Code
+- Live Server
+- Basic frontend structure
+
+## Currently Learning
 
 - localStorage
-- Arquitectura frontend
+- Frontend architecture
 - UX/UI
-- Estructura de proyectos reales
-- Persistencia de datos
-- Diseño de producto
+- Real-world project structure
+- Data persistence
+- Product design
 
 ---
 
-# Prioridad actual
+# Current Priority
 
-Construir un MVP funcional, limpio y estable antes de pasar a backend o sistemas complejos.
+Build a clean, stable, and functional MVP before moving to backend development or more advanced systems.
 
 ---
 
-# Notas personales
+# Personal Notes
 
-El proyecto busca mantener equilibrio entre:
-- profundidad,
-- simplicidad,
-- accesibilidad,
-- y funcionalidad.
+This project aims to balance:
 
-La prioridad NO es crear la red social más adictiva.
-La prioridad es crear una experiencia útil y humana.
+- Depth
+- Simplicity
+- Accessibility
+- Functionality
+
+The goal is not to create the most addictive social network.
+
+The goal is to create a useful and human-centered experience.
